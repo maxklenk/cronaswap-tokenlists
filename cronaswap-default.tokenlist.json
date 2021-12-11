@@ -1,0 +1,30 @@
+{
+  "name": "CronaSwap Default List",
+  "timestamp": "2021-12-10T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://app.cronaswap.org/logo.png",
+  "keywords": ["cronaswap", "default"],
+  "tokens": [
+    {
+      "name": "Crona Token",
+      "symbol": "CRONA",
+      "address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xadbd1231fb360047525BEdF962581F3eee7b49fe/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xc21223249ca28397b4b6541dffaecc539bff0c59/logo.png"
+    }
+  ]
+}
