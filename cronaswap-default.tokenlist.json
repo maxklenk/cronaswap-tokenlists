@@ -25,6 +25,15 @@
       "chainId": 25,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xc21223249ca28397b4b6541dffaecc539bff0c59/logo.png"
+    },
+    {
+      "name": "CROTerra",
+      "symbol": "CROTERRA",
+      "address": "0x74F53e67D68A348611979e3012EDf9781C437529",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x74F53e67D68A348611979e3012EDf9781C437529/logo.png"
     }
+    
   ]
 }
