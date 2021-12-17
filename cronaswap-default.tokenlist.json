@@ -33,7 +33,14 @@
       "chainId": 25,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x74F53e67D68A348611979e3012EDf9781C437529/logo.png"
+    },
+    {
+      "name": "Pegasus",
+      "symbol": "SUS",
+      "address": "0x5b5Fe1238aca91C65683aCd7f9D9Bf922e271EAA",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x5b5Fe1238aca91C65683aCd7f9D9Bf922e271EAA/logo.png"
     }
-    
   ]
 }
