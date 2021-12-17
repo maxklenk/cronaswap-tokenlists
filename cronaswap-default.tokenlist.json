@@ -35,11 +35,11 @@
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x74F53e67D68A348611979e3012EDf9781C437529/logo.png"
     },
     {
-      "name": "Pegasus",
+      "name": "PegasusDAO",
       "symbol": "SUS",
       "address": "0x5b5Fe1238aca91C65683aCd7f9D9Bf922e271EAA",
       "chainId": 25,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x5b5Fe1238aca91C65683aCd7f9D9Bf922e271EAA/logo.png"
     },
     {
@@ -47,7 +47,7 @@
       "symbol": "DOGE",
       "address": "0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396",
       "chainId": 25,
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396/logo.png"
     }
 
