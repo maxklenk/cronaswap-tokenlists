@@ -43,8 +43,8 @@
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x5b5Fe1238aca91C65683aCd7f9D9Bf922e271EAA/logo.png"
     },
     {
-      "name": "Pegasus",
-      "symbol": "SUS",
+      "name": "DOGE Coin",
+      "symbol": "DOGE",
       "address": "0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396",
       "chainId": 25,
       "decimals": 18,
