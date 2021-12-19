@@ -49,6 +49,30 @@
       "chainId": 25,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396/logo.png"
+    },
+    {
+      "name": "Bison",
+      "symbol": "BISON",
+      "address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+    },
+    {
+      "name": "GSHARE",
+      "symbol": "GSHARE",
+      "address": "0x9CE609804884b862f2149414AC0De6d17994700b",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x9CE609804884b862f2149414AC0De6d17994700b/logo.png"
+    },
+    {
+      "name": "Gaur.money",
+      "symbol": "GAUR",
+      "address": "0xF14AF8434E39e35d4E660A3D93EF920C9711EBB9",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xF14AF8434E39e35d4E660A3D93EF920C9711EBB9/logo.png"
     }
 
     
