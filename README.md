@@ -6,6 +6,8 @@ Tokenlists for the CronaSwap, Premier AMM dex on Cronos Chain.
 #### Fast Application
 Submit pull request by adding your token logo 102x102 PNG and 102x102 SVG. If logo is not png and svg or exceeds 102x102 it will be rejected. 
 
+Create a [New Pull Request](https://github.com/cronaswap/cronaswap-tokenlists/pulls) to us.
+
 #### Normal Application
 Create an issue with the following info:
 - token address
