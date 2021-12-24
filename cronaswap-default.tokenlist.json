@@ -89,6 +89,30 @@
       "chainId": 25,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x0694c9bf930b7456712cEde98bE770e110212B38/logo.png"
+    },
+    {
+      "name": "Enjin Coin",
+      "symbol": "ENJ",
+      "address": "0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7/logo.svg"
+    },
+    {
+      "name": "ATOM Coin",
+      "symbol": "ATOM",
+      "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93/logo.svg"
+    },
+    {
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "address": "0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9/logo.svg"
     }
   ]
 }
