@@ -113,6 +113,14 @@
       "chainId": 25,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9/logo.svg"
+    },
+    {
+      "name": "Croblanc Token",
+      "symbol": "CROBLANC",
+      "address": "0xD3ceCBE5639D05Aed446Da11F08D495CA6bF359F",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xD3ceCBE5639D05Aed446Da11F08D495CA6bF359F/logo.svg"
     }
   ]
 }
