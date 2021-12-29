@@ -16,10 +16,10 @@ Create an issue with the following info:
 - submissions with invalid token address will be rejected. 
 - processed every 3-5 days.
 
-## HOW TO WHITELIST YOUR TOKEN
-- Tokens are added to tokenlists by CronaSwap team based on market demand and other metrics. 
-- Tokenlist is rebalanced every 2 weeks, roughly speaking we add tokens that are top 30 in daily volume, and remove tokens that are below top 40. 
-
 ## Have more questions?
 Come visit us on discord at our `dev-chat` channel. 
 Link: https://discord.gg/YXxega5vJG
+
+## HOW TO WHITELIST YOUR TOKEN
+- Tokens are added to tokenlists by CronaSwap team based on market demand and other metrics. 
+- Tokenlist is rebalanced every 2 weeks, roughly speaking we add tokens that are top 30 in daily volume, and remove tokens that are below top 40. 
