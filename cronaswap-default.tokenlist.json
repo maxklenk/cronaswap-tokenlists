@@ -121,6 +121,22 @@
       "chainId": 25,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xD3ceCBE5639D05Aed446Da11F08D495CA6bF359F/logo.svg"
+    },
+    {
+      "name": "Galatea gDIVS",
+      "symbol": "gDIVS",
+      "address": "0x19B021B9C15707EAdd74AF0A4D5Eb905733f2A32",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x19B021B9C15707EAdd74AF0A4D5Eb905733f2A32/logo.svg"
+    },
+    {
+      "name": "Galatea gCASH",
+      "symbol": "gCASH",
+      "address": "0x8420454d4b5f436dbCb5913609F3848350B8723A",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x8420454d4b5f436dbCb5913609F3848350B8723A/logo.svg"
     }
   ]
 }
