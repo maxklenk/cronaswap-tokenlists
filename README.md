@@ -9,7 +9,7 @@ Submit pull request by adding your token logo 102x102 PNG and 102x102 SVG. If lo
 Create a [New Pull Request](https://github.com/cronaswap/cronaswap-tokenlists/pulls) to us.
 
 #### Normal Application
-Create an issue with the following info:
+Create a Pull Request with the following info:
 - token address
 - token logo 102x102 PNG and 102x102 SVG
 - submissions with links intead of attached images will be rejected. 
