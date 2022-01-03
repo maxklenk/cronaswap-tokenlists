@@ -137,6 +137,38 @@
       "chainId": 25,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x8420454d4b5f436dbCb5913609F3848350B8723A/logo.svg"
+    },
+    {
+      "name": "Zeu$Finance",
+      "symbol": "ZEU$",
+      "address": "0x813658e307fA4DAF9B25e7CE1dE3b40012CA2B74",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x813658e307fA4DAF9B25e7CE1dE3b40012CA2B74/ZeusLogo.png"
+    },
+    {
+      "name": "Zeu$Finance",
+      "symbol": "ATH",
+      "address": "0x26d787e06412530EBD4d1eCDE613Eff5bf2eBA04",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x26d787e06412530EBD4d1eCDE613Eff5bf2eBA04/AthLogo.png"
+    },
+    {
+      "name": "Frens",
+      "symbol": "FRENS",
+      "address": "0x0EdeC4bE261B22be6096Ec4960247697891A2045",
+      "chainId": 25,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x0EdeC4bE261B22be6096Ec4960247697891A2045/logo.png"
+    },
+    {
+      "name": "Matrix",
+      "symbol": "MTX",
+      "address": "0x35c167b6a1Fc4D1D2b55293367ef5b8D4aF0a696",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x35c167b6a1Fc4D1D2b55293367ef5b8D4aF0a696/logo.png"
     }
   ]
 }
