@@ -169,6 +169,16 @@
       "chainId": 25,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x35c167b6a1Fc4D1D2b55293367ef5b8D4aF0a696/logo.png"
+    },
+    {
+      "name": "Lazy Horse Race Club",
+      "symbol": "LHRC",
+      "address": "0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651/logo.png"
     }
+
+    
   ]
 }
