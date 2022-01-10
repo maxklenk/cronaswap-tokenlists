@@ -177,7 +177,24 @@
       "chainId": 25,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xEfD450027bD0EE84AfaFbC75f5A80C367eFBF651/logo.png"
+    },
+    {
+      "name": " DarkCrypto",
+      "symbol": "DARK",
+      "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5/logo.svg"
+    },
+    {
+      "name": "DarkCrypto Share",
+      "symbol": "SKY",
+      "address": "0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c/logo.svg"
     }
+
 
     
   ]
